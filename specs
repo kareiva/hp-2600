@@ -1,0 +1,4 @@
+vendor	: hp
+model	: 2600
+snmpver	: 2
+sysdesc : ProCurve

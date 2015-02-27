@@ -1,0 +1,2 @@
+Fan sensor: {FanDescr}
+Status: {FanStatus.color}{FanStatus}

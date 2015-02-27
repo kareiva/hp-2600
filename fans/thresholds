@@ -1,0 +1,3 @@
+FanStatus	: red		: unknown|bad
+FanStatus	: yellow	: warning|notPresent
+FanStatus	: green		: good

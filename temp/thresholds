@@ -1,0 +1,3 @@
+TempStatus	: red		: unknown|bad
+TempStatus	: yellow	: warning|notPresent
+TempStatus	: green		: good

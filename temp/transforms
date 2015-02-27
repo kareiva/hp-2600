@@ -1,0 +1,2 @@
+TempStatus : SWITCH : {TempState} 1=unknown,2=bad,3=warning,4=good,5=notPresent
+

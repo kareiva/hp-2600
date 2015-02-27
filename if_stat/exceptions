@@ -1,0 +1,3 @@
+ifName : alarm  : .+
+ifName : ignore : [0-9]+
+ifName : ignore : Nu.+|Vl.+
